@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/tel2222222222222222222.com.ico",
     "slug": "google",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.93%",
+    "uptimeDay": "34.58%",
+    "uptimeWeek": "90.65%",
+    "uptimeMonth": "97.85%",
+    "uptimeYear": "99.82%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-28": 0
+      "2023-03-29": 156,
+      "2023-03-28": 786
     }
   },
   {
@@ -30,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 225,
-    "timeDay": 225,
-    "timeWeek": 225,
-    "timeMonth": 225,
-    "timeYear": 225,
+    "time": 377,
+    "timeDay": 377,
+    "timeWeek": 377,
+    "timeMonth": 377,
+    "timeYear": 377,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 238,
-    "timeDay": 238,
-    "timeWeek": 238,
-    "timeMonth": 238,
-    "timeYear": 238,
+    "time": 365,
+    "timeDay": 365,
+    "timeWeek": 365,
+    "timeMonth": 365,
+    "timeYear": 365,
     "dailyMinutesDown": {}
   },
   {
