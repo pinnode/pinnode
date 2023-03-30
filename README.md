@@ -1,4 +1,4 @@
-# [📈 Live Status](https://demo.upptime.js.org): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](https://pinnode.github.io/pinnode): <!--live status--> **🟩 All systems operational**
 
 This repository contains the open-source uptime monitor and status page for [Upptime](https://upptime.js.org), powered by [Upptime](https://github.com/upptime/upptime).
 
@@ -22,10 +22,6 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://demo.upptime.js.org)
+[**Visit our status website →**](https://pinnode.github.io/pinnode)
 
-## 📄 License
 
-- Powered by: [Upptime](https://github.com/upptime/upptime)
-- Code: [MIT](./LICENSE) © [Upptime](https://upptime.js.org)
-- Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
