@@ -11,6 +11,8 @@ sites:
     url: https://memory.library.krr/main
   - name: google
     url: https://www.google.com
+  - name: digital hangeul
+    url: http://hangeul.pinnode.net/
     
     
 
