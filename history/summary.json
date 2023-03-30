@@ -1,26 +1,5 @@
 [
   {
-    "name": "구글",
-    "url": "https://www.google.com/",
-    "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
-    "slug": "",
-    "status": "up",
-    "uptime": "0.00%",
-    "uptimeDay": "42.36%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 2232,
-    "timeDay": 2232,
-    "timeWeek": 2232,
-    "timeMonth": 2232,
-    "timeYear": 2232,
-    "dailyMinutesDown": {
-      "2023-03-29": 764,
-      "2023-03-28": 786
-    }
-  },
-  {
     "name": "제주 4.3",
     "url": "http://43archives.or.kr/main.do",
     "icon": "https://icons.duckduckgo.com/ip3/43archives.or.kr.ico",
@@ -31,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 652,
-    "timeDay": 652,
-    "timeWeek": 652,
-    "timeMonth": 652,
-    "timeYear": 652,
+    "time": 693,
+    "timeDay": 693,
+    "timeWeek": 693,
+    "timeMonth": 693,
+    "timeYear": 693,
     "dailyMinutesDown": {}
   }
 ]
