@@ -9,8 +9,14 @@ sites:
     url: https://www.emuseum.go.kr/main
   - name: ggmemory
     url: https://memory.library.krr/main
-  - name: google
-    url: https://www.google.com
+  - name: jp
+    url: https://archives.jp.go.kr/
+  - name: ggmemory
+    url: https://memory.library.krr/main
+  - name: hangeul
+    url: https://archives.hangeul.go.kr/
+  - name: Kculture
+    url: http://www.kcultureroad.kr/
   - name: digital hangeul
     url: http://hangeul.pinnode.net/
     
