@@ -1,41 +1,20 @@
 [
   {
-    "name": "증평아카이브",
-    "url": "http://43archives.or.kr/main.do",
-    "icon": "https://icons.duckduckgo.com/ip3/43archives.or.kr.ico",
+    "name": "구글",
+    "url": "https://www.google.com/",
+    "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "41.96%",
+    "uptimeDay": "42.36%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 2298,
-    "timeDay": 2298,
-    "timeWeek": 2298,
-    "timeMonth": 2298,
-    "timeYear": 2298,
-    "dailyMinutesDown": {
-      "2023-03-29": 764,
-      "2023-03-28": 786
-    }
-  },
-  {
-    "name": "경기도메모리",
-    "url": "https://memory.library.kr/main",
-    "icon": "https://icons.duckduckgo.com/ip3/memory.library.kr.ico",
-    "slug": "",
-    "status": "up",
-    "uptime": "0.00%",
-    "uptimeDay": "41.96%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 2298,
-    "timeDay": 2298,
-    "timeWeek": 2298,
-    "timeMonth": 2298,
-    "timeYear": 2298,
+    "time": 2232,
+    "timeDay": 2232,
+    "timeWeek": 2232,
+    "timeMonth": 2232,
+    "timeYear": 2232,
     "dailyMinutesDown": {
       "2023-03-29": 764,
       "2023-03-28": 786
@@ -52,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 556,
-    "timeDay": 556,
-    "timeWeek": 556,
-    "timeMonth": 556,
-    "timeYear": 556,
+    "time": 652,
+    "timeDay": 652,
+    "timeWeek": 652,
+    "timeMonth": 652,
+    "timeYear": 652,
     "dailyMinutesDown": {}
   }
 ]
