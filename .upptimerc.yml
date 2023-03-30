@@ -3,13 +3,13 @@ owner: pinnode # Your GitHub organization or username, where this repository liv
 repo: pinnode # The name of this repository
 
 sites:
-  - name: 제주 4.3
+  - name: jeju 4.3
     url: http://43archives.or.krr/main.do
-  - name: 이뮤지엄
+  - name: emusium
     url: https://www.emuseum.go.kr/main
-  - name: 경기도메모리
+  - name: ggmemory
     url: https://memory.library.krr/main
-  - name: 구글
+  - name: google
     url: https://www.google.com
     
     
