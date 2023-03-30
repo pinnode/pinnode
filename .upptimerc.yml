@@ -9,10 +9,7 @@ sites:
     url: https://memory.library.kr/main
   - name: 제주 4.3
     url: http://43archives.or.kr/main.do
-  - name: 국립한글박물관
-    url: https://archives.hangeul.go.kr/
-  - name: 문화로
-    url: http://www.kcultureroad.kr/
+  
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
