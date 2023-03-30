@@ -1,27 +1,27 @@
 [
   {
     "name": "제주 4.3",
-    "url": "http://43archives.or.krr/main.do",
-    "icon": "https://icons.duckduckgo.com/ip3/43archives.or.krr.ico",
+    "url": "http://43archives.or.kr/main.do",
+    "icon": "https://icons.duckduckgo.com/ip3/43archives.or.kr.ico",
     "slug": "4-3",
-    "status": "down",
-    "uptime": "91.25%",
-    "uptimeDay": "91.25%",
-    "uptimeWeek": "91.25%",
-    "uptimeMonth": "91.25%",
-    "uptimeYear": "91.25%",
-    "time": 771,
-    "timeDay": 771,
-    "timeWeek": 771,
-    "timeMonth": 771,
-    "timeYear": 771,
+    "status": "up",
+    "uptime": "90.75%",
+    "uptimeDay": "90.75%",
+    "uptimeWeek": "90.75%",
+    "uptimeMonth": "90.75%",
+    "uptimeYear": "90.75%",
+    "time": 861,
+    "timeDay": 861,
+    "timeWeek": 861,
+    "timeMonth": 861,
+    "timeYear": 861,
     "dailyMinutesDown": {
-      "2023-03-30": 24
+      "2023-03-30": 26
     }
   },
   {
     "name": "경기도메모리",
-    "url": "https://memory.library.kr",
+    "url": "https://memory.library.kr/main",
     "icon": "https://icons.duckduckgo.com/ip3/memory.library.kr.ico",
     "slug": "",
     "status": "up",
@@ -30,13 +30,13 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 2395,
-    "timeDay": 2395,
-    "timeWeek": 2395,
-    "timeMonth": 2395,
-    "timeYear": 2395,
+    "time": 2457,
+    "timeDay": 2457,
+    "timeWeek": 2457,
+    "timeMonth": 2457,
+    "timeYear": 2457,
     "dailyMinutesDown": {
-      "2023-03-30": 24,
+      "2023-03-30": 26,
       "2023-03-29": 764,
       "2023-03-28": 786
     }
