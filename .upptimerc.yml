@@ -5,6 +5,8 @@ repo: pinnode # The name of this repository
 sites:
   - name: 제주 4.3
     url: http://43archives.or.kr/main.do
+  - name: 이뮤지엄
+    url: https://www.emuseum.go.kr/main
     
 
 status-website:
@@ -19,7 +21,7 @@ status-website:
   navbar:
     
     - title: Pinnode
-      href: https://pinnode.github.io/pinnode/
+      href: https://pinnode.github.io/pinnode
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
