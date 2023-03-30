@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/43archives.or.krr.ico",
     "slug": "4-3",
     "status": "down",
-    "uptime": "93.17%",
-    "uptimeDay": "93.17%",
-    "uptimeWeek": "93.17%",
-    "uptimeMonth": "93.17%",
-    "uptimeYear": "93.17%",
+    "uptime": "94.28%",
+    "uptimeDay": "94.28%",
+    "uptimeWeek": "94.28%",
+    "uptimeMonth": "94.28%",
+    "uptimeYear": "94.28%",
     "time": 1060,
     "timeDay": 1060,
     "timeWeek": 1060,
     "timeMonth": 1060,
     "timeYear": 1060,
     "dailyMinutesDown": {
-      "2023-03-30": 31
+      "2023-03-30": 26
     }
   },
   {
@@ -36,7 +36,7 @@
     "timeMonth": 2182,
     "timeYear": 2182,
     "dailyMinutesDown": {
-      "2023-03-30": 31,
+      "2023-03-30": 26,
       "2023-03-29": 764,
       "2023-03-28": 786
     }
@@ -58,7 +58,7 @@
     "timeMonth": 2182,
     "timeYear": 2182,
     "dailyMinutesDown": {
-      "2023-03-30": 31,
+      "2023-03-30": 26,
       "2023-03-29": 764,
       "2023-03-28": 786
     }
@@ -80,7 +80,7 @@
     "timeMonth": 2182,
     "timeYear": 2182,
     "dailyMinutesDown": {
-      "2023-03-30": 31,
+      "2023-03-30": 26,
       "2023-03-29": 764,
       "2023-03-28": 786
     }
