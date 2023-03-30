@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/43archives.or.krr.ico",
     "slug": "jeju-4-3",
     "status": "down",
-    "uptime": "5.60%",
-    "uptimeDay": "5.60%",
-    "uptimeWeek": "5.60%",
-    "uptimeMonth": "5.60%",
-    "uptimeYear": "5.60%",
+    "uptime": "0.20%",
+    "uptimeDay": "0.20%",
+    "uptimeWeek": "0.20%",
+    "uptimeMonth": "0.20%",
+    "uptimeYear": "0.20%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-30": 0
+      "2023-03-30": 6
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1934,
-    "timeDay": 1934,
-    "timeWeek": 1934,
-    "timeMonth": 1934,
-    "timeYear": 1934,
+    "time": 1708,
+    "timeDay": 1708,
+    "timeWeek": 1708,
+    "timeMonth": 1708,
+    "timeYear": 1708,
     "dailyMinutesDown": {}
   },
   {
@@ -43,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/memory.library.krr.ico",
     "slug": "ggmemory",
     "status": "down",
-    "uptime": "5.56%",
-    "uptimeDay": "5.56%",
-    "uptimeWeek": "5.56%",
-    "uptimeMonth": "5.56%",
-    "uptimeYear": "5.56%",
+    "uptime": "0.17%",
+    "uptimeDay": "0.17%",
+    "uptimeWeek": "0.17%",
+    "uptimeMonth": "0.17%",
+    "uptimeYear": "0.17%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-30": 0
+      "2023-03-30": 6
     }
   },
   {
@@ -68,14 +68,32 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 47,
-    "timeDay": 47,
-    "timeWeek": 47,
-    "timeMonth": 47,
-    "timeYear": 47,
+    "time": 60,
+    "timeDay": 60,
+    "timeWeek": 60,
+    "timeMonth": 60,
+    "timeYear": 60,
     "dailyMinutesDown": {
       "2023-03-29": 764,
       "2023-03-28": 786
     }
+  },
+  {
+    "name": "digital hangeul",
+    "url": "http://hangeul.pinnode.net/",
+    "icon": "https://icons.duckduckgo.com/ip3/hangeul.pinnode.net.ico",
+    "slug": "digital-hangeul",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2012,
+    "timeDay": 2012,
+    "timeWeek": 2012,
+    "timeMonth": 2012,
+    "timeYear": 2012,
+    "dailyMinutesDown": {}
   }
 ]
