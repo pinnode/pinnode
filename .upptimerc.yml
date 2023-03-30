@@ -7,6 +7,11 @@ sites:
     url: http://43archives.or.krr/main.do
   - name: 이뮤지엄
     url: https://www.emuseum.go.kr/main
+  - name: 경기도메모리
+    url: https://memory.library.kr/main
+  - name: 구글
+    url: https://www.google.com
+    
     
 
 status-website:
