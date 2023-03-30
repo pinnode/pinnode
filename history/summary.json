@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/43archives.or.krr.ico",
     "slug": "jeju-4-3",
     "status": "down",
-    "uptime": "0.15%",
-    "uptimeDay": "0.15%",
-    "uptimeWeek": "0.15%",
-    "uptimeMonth": "0.15%",
-    "uptimeYear": "0.15%",
+    "uptime": "0.06%",
+    "uptimeDay": "0.06%",
+    "uptimeWeek": "0.06%",
+    "uptimeMonth": "0.06%",
+    "uptimeYear": "0.06%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-30": 6
+      "2023-03-30": 11
     }
   },
   {
@@ -43,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/memory.library.krr.ico",
     "slug": "ggmemory",
     "status": "down",
-    "uptime": "0.15%",
-    "uptimeDay": "0.15%",
-    "uptimeWeek": "0.15%",
-    "uptimeMonth": "0.15%",
-    "uptimeYear": "0.15%",
+    "uptime": "0.14%",
+    "uptimeDay": "0.14%",
+    "uptimeWeek": "0.14%",
+    "uptimeMonth": "0.14%",
+    "uptimeYear": "0.14%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-30": 6
+      "2023-03-30": 11
     }
   },
   {
@@ -83,17 +83,19 @@
     "url": "http://hangeul.pinnode.net/",
     "icon": "https://icons.duckduckgo.com/ip3/hangeul.pinnode.net.ico",
     "slug": "digital-hangeul",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2012,
-    "timeDay": 2012,
-    "timeWeek": 2012,
-    "timeMonth": 2012,
-    "timeYear": 2012,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "98.49%",
+    "uptimeDay": "98.49%",
+    "uptimeWeek": "98.49%",
+    "uptimeMonth": "98.49%",
+    "uptimeYear": "98.49%",
+    "time": 1442,
+    "timeDay": 1442,
+    "timeWeek": 1442,
+    "timeMonth": 1442,
+    "timeYear": 1442,
+    "dailyMinutesDown": {
+      "2023-03-30": 0
+    }
   }
 ]
