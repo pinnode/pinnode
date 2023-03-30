@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/43archives.or.krr.ico",
     "slug": "4-3",
     "status": "down",
-    "uptime": "93.45%",
-    "uptimeDay": "93.45%",
-    "uptimeWeek": "93.45%",
-    "uptimeMonth": "93.45%",
-    "uptimeYear": "93.45%",
+    "uptime": "93.17%",
+    "uptimeDay": "93.17%",
+    "uptimeWeek": "93.17%",
+    "uptimeMonth": "93.17%",
+    "uptimeYear": "93.17%",
     "time": 1060,
     "timeDay": 1060,
     "timeWeek": 1060,
     "timeMonth": 1060,
     "timeYear": 1060,
     "dailyMinutesDown": {
-      "2023-03-30": 30
+      "2023-03-30": 31
     }
   },
   {
@@ -30,21 +30,21 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 2250,
-    "timeDay": 2250,
-    "timeWeek": 2250,
-    "timeMonth": 2250,
-    "timeYear": 2250,
+    "time": 2182,
+    "timeDay": 2182,
+    "timeWeek": 2182,
+    "timeMonth": 2182,
+    "timeYear": 2182,
     "dailyMinutesDown": {
-      "2023-03-30": 30,
+      "2023-03-30": 31,
       "2023-03-29": 764,
       "2023-03-28": 786
     }
   },
   {
     "name": "경기도메모리",
-    "url": "https://memory.library.kr/main",
-    "icon": "https://icons.duckduckgo.com/ip3/memory.library.kr.ico",
+    "url": "https://memory.library.krr/main",
+    "icon": "https://icons.duckduckgo.com/ip3/memory.library.krr.ico",
     "slug": "",
     "status": "up",
     "uptime": "0.00%",
@@ -52,13 +52,13 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 2250,
-    "timeDay": 2250,
-    "timeWeek": 2250,
-    "timeMonth": 2250,
-    "timeYear": 2250,
+    "time": 2182,
+    "timeDay": 2182,
+    "timeWeek": 2182,
+    "timeMonth": 2182,
+    "timeYear": 2182,
     "dailyMinutesDown": {
-      "2023-03-30": 30,
+      "2023-03-30": 31,
       "2023-03-29": 764,
       "2023-03-28": 786
     }
@@ -74,13 +74,13 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 2250,
-    "timeDay": 2250,
-    "timeWeek": 2250,
-    "timeMonth": 2250,
-    "timeYear": 2250,
+    "time": 2182,
+    "timeDay": 2182,
+    "timeWeek": 2182,
+    "timeMonth": 2182,
+    "timeYear": 2182,
     "dailyMinutesDown": {
-      "2023-03-30": 30,
+      "2023-03-30": 31,
       "2023-03-29": 764,
       "2023-03-28": 786
     }
