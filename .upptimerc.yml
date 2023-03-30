@@ -11,7 +11,7 @@ sites:
     url: http://43archives.or.kr/main.do
   - name: 국립한글박물관
     url: https://archives.hangeul.go.kr/
-  - name: 문화
+  - name: 문화로
     url: http://www.kcultureroad.kr/
 
 status-website:
