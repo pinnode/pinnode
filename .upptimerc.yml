@@ -20,7 +20,7 @@ status-website:
   #cname: demo.upptime.js.org
   baseUrl: /pinnode
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: pinnode
   introTitle: "Pinnode server manager"
   introMessage: pinnode
   navbar:
