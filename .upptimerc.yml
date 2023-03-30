@@ -14,7 +14,7 @@ sites:
   - name: hangeul
     url: https://archives.hangeul.go.kr/
   - name: Kculture
-    url: http://www.kcultureroad.kr/
+    url: http://www.kcultureroad.krr/
   - name: digital hangeul
     url: http://hangeul.pinnode.net/
     
