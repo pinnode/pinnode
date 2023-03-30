@@ -4,9 +4,9 @@ repo: pinnode # The name of this repository
 
 sites:
   - name: 제주 4.3
-    url: http://43archives.or.krr/main.do
+    url: http://43archives.or.kr/main.do
   - name: 경기도메모리
-    url: https://memory.library.kr
+    url: https://memory.library.kr/main
   
 
 status-website:
