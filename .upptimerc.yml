@@ -7,6 +7,8 @@ sites:
     url: http://43archives.or.kr/main.do
   - name: 증평아카이
     url: https://www.naver.com/
+  - name: widi
+    url: https://en.wikipedia.org
   
 
 status-website:
