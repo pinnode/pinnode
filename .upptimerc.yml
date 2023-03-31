@@ -14,7 +14,7 @@ sites:
   - name: ggmemory
     url: https://memory.library.kr/main
   - name: ggmemory - admin
-    url: https://memorysuper.library.kr/admin/login
+    url: https://memorysuper.library.kr/
   - name: hangeul
     url: https://archives.hangeul.go.kr/  
   - name: hangeul - cms
