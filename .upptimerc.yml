@@ -9,14 +9,23 @@ sites:
     url: https://www.emuseum.go.kr/main
   - name: jp
     url: https://archives.jp.go.kr/
+  - name: jp - admin
+    url: https://archives.jp.go.kr/admin
   - name: ggmemory
     url: https://memory.library.kr/main
+  - name: ggmemory - admin
+    url: https://memorysuper.library.kr/admin/login
   - name: hangeul
-    url: https://archives.hangeul.go.kr/
+    url: https://archives.hangeul.go.kr/  
+  - name: hangeul - cms
+    url: http://mms.hangeul.go.kr:9001/login
+  - name: hangeul - mms
+    url: http://mms.hangeul.go.kr:9002/login
   - name: Kculture
-    url: http://www.kcultureroad.krr/
-  - name: digital hangeul
-    url: http://hangeul.pinnode.net/
+    url: http://www.kcultureroad.kr/
+  - name: Kculture - admin
+    url: http://www.kcultureroad.kr/login
+
     
     
 
