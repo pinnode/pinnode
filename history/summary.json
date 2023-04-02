@@ -4,19 +4,19 @@
     "url": "http://43archives.or.kr/main.do",
     "icon": "https://icons.duckduckgo.com/ip3/43archives.or.kr.ico",
     "slug": "jeju-4-3",
-    "status": "down",
-    "uptime": "99.57%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.57%",
-    "uptimeMonth": "99.57%",
-    "uptimeYear": "99.57%",
-    "time": 1328,
-    "timeDay": 1687,
-    "timeWeek": 1328,
-    "timeMonth": 1328,
-    "timeYear": 1328,
+    "status": "up",
+    "uptime": "99.35%",
+    "uptimeDay": "99.24%",
+    "uptimeWeek": "99.35%",
+    "uptimeMonth": "99.35%",
+    "uptimeYear": "99.35%",
+    "time": 1316,
+    "timeDay": 1459,
+    "timeWeek": 1316,
+    "timeMonth": 1316,
+    "timeYear": 1316,
     "dailyMinutesDown": {
-      "2023-04-02": 1,
+      "2023-04-02": 11,
       "2023-03-30": 18
     }
   },
@@ -111,7 +111,7 @@
     "timeMonth": 3239,
     "timeYear": 3239,
     "dailyMinutesDown": {
-      "2023-04-02": 563,
+      "2023-04-02": 573,
       "2023-04-01": 1440,
       "2023-03-31": 1030
     }
@@ -169,7 +169,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-02": 563,
+      "2023-04-02": 573,
       "2023-04-01": 1440,
       "2023-03-31": 1030
     }
@@ -180,11 +180,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.kcultureroad.kr.ico",
     "slug": "kculture",
     "status": "up",
-    "uptime": "70.13%",
+    "uptime": "70.20%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "70.13%",
-    "uptimeMonth": "70.13%",
-    "uptimeYear": "70.13%",
+    "uptimeWeek": "70.20%",
+    "uptimeMonth": "70.20%",
+    "uptimeYear": "70.20%",
     "time": 1732,
     "timeDay": 1516,
     "timeWeek": 1732,
