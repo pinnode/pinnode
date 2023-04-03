@@ -23,6 +23,9 @@ sites:
     url: http://www.kcultureroad.kr/login
   - name: ggmemoryadmin
     url: https://memorysuper.library.kr
+  - name: ggmemoryadmin
+    url: http://mms.hangeul.go.kr:9002/login
+    
 
     
     
