@@ -13,14 +13,10 @@ sites:
     url: https://archives.jp.go.kr/admin
   - name: ggmemory
     url: https://memory.library.kr/main
-  - name: ggmemoryadmin
-    url: https://memorysuper.library.kr/
   - name: hangeul
     url: https://archives.hangeul.go.kr/  
   - name: hangeulcms
     url: http://mms.hangeul.go.kr:9001/login
-  - name: hangeulmms
-    url: http://mms.hangeul.go.kr:9002/login
   - name: Kculture
     url: http://www.kcultureroad.kr/
   - name: Kcultureadmin
