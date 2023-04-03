@@ -22,7 +22,7 @@ sites:
   - name: Kcultureadmin
     url: http://www.kcultureroad.kr/login
   - name: ggmemoryadmin
-    url: https://memorysuper.library.kr/admin/login;jsessionid=242FD15CA9BF699696AB55E11FEDE6EA
+    url: https://memorysuper.library.kr/admin/login
 
     
     
