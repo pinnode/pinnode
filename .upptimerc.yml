@@ -20,9 +20,9 @@ sites:
   - name: Kculture
     url: http://www.kcultureroad.kr/
   - name: Kcultureadmin
-    url: http://www.kcultureroad.krr/login
+    url: http://www.kcultureroad.kr/login
   - name: ggmemoryadmin
-    url: https://memorysuper.library.kr/admin/login
+    url: https://memorysuper.library.kr
 
     
     
