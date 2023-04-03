@@ -39,7 +39,7 @@ status-website:
   navbar:
     
     - title: Pinnode
-      href: https://pinnode.github.io/pinnode
+      href: https://pinnode.github.io/pinnode/pinnode
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
