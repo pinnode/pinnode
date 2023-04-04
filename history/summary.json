@@ -76,19 +76,19 @@
     "url": "https://memory.library.kr/main",
     "icon": "https://icons.duckduckgo.com/ip3/memory.library.kr.ico",
     "slug": "ggmemory",
-    "status": "down",
-    "uptime": "99.76%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "99.76%",
-    "time": 3848,
-    "timeDay": 4287,
-    "timeWeek": 3848,
-    "timeMonth": 3848,
-    "timeYear": 3848,
+    "status": "up",
+    "uptime": "99.63%",
+    "uptimeDay": "99.22%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.63%",
+    "uptimeYear": "99.63%",
+    "time": 4340,
+    "timeDay": 7257,
+    "timeWeek": 4340,
+    "timeMonth": 4340,
+    "timeYear": 4340,
     "dailyMinutesDown": {
-      "2023-04-04": 1,
+      "2023-04-04": 11,
       "2023-03-30": 18
     }
   },
@@ -134,11 +134,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.kcultureroad.kr.ico",
     "slug": "kculture",
     "status": "up",
-    "uptime": "83.46%",
+    "uptime": "83.48%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "83.46%",
-    "uptimeMonth": "83.46%",
-    "uptimeYear": "83.46%",
+    "uptimeWeek": "83.48%",
+    "uptimeMonth": "83.48%",
+    "uptimeYear": "83.48%",
     "time": 1725,
     "timeDay": 1789,
     "timeWeek": 1725,
@@ -184,7 +184,7 @@
     "timeMonth": 3172,
     "timeYear": 3172,
     "dailyMinutesDown": {
-      "2023-04-04": 1239,
+      "2023-04-04": 1250,
       "2023-04-03": 1440,
       "2023-04-02": 3
     }
@@ -206,7 +206,7 @@
     "timeMonth": 3172,
     "timeYear": 3172,
     "dailyMinutesDown": {
-      "2023-04-04": 1239,
+      "2023-04-04": 1250,
       "2023-04-03": 1440,
       "2023-04-02": 3
     }
