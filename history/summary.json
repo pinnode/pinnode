@@ -4,10 +4,10 @@
     "url": "http://43archives.or.kr/main.do",
     "icon": "https://icons.duckduckgo.com/ip3/43archives.or.kr.ico",
     "slug": "jeju43",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1444,
@@ -15,7 +15,9 @@
     "timeWeek": 1430,
     "timeMonth": 1434,
     "timeYear": 1444,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-04": 1
+    }
   },
   {
     "name": "emusium",
@@ -137,11 +139,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.kcultureroad.kr.ico",
     "slug": "kculture",
     "status": "up",
-    "uptime": "97.32%",
+    "uptime": "97.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.78%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "97.32%",
+    "uptimeYear": "97.35%",
     "time": 1822,
     "timeDay": 1993,
     "timeWeek": 2294,
@@ -190,7 +192,7 @@
     "timeMonth": 3631,
     "timeYear": 3534,
     "dailyMinutesDown": {
-      "2023-05-04": 68,
+      "2023-05-04": 657,
       "2023-05-03": 1440,
       "2023-05-02": 1440,
       "2023-05-01": 1440,
@@ -242,7 +244,7 @@
     "timeMonth": 3631,
     "timeYear": 3534,
     "dailyMinutesDown": {
-      "2023-05-04": 68,
+      "2023-05-04": 657,
       "2023-05-03": 1440,
       "2023-05-02": 1440,
       "2023-05-01": 1440,
