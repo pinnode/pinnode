@@ -83,10 +83,10 @@
     "url": "https://memory.library.kr/main",
     "icon": "https://icons.duckduckgo.com/ip3/memory.library.kr.ico",
     "slug": "ggmemory",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "97.33%",
-    "uptimeWeek": "99.62%",
+    "uptimeDay": "97.28%",
+    "uptimeWeek": "99.61%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.90%",
     "time": 4033,
@@ -95,6 +95,7 @@
     "timeMonth": 3887,
     "timeYear": 4033,
     "dailyMinutesDown": {
+      "2023-05-08": 1,
       "2023-05-07": 39,
       "2023-03-30": 18
     }
@@ -194,7 +195,7 @@
     "timeMonth": 3654,
     "timeYear": 3498,
     "dailyMinutesDown": {
-      "2023-05-08": 67,
+      "2023-05-08": 156,
       "2023-05-07": 1440,
       "2023-05-06": 1440,
       "2023-05-05": 1440,
@@ -250,7 +251,7 @@
     "timeMonth": 3654,
     "timeYear": 3498,
     "dailyMinutesDown": {
-      "2023-05-08": 67,
+      "2023-05-08": 156,
       "2023-05-07": 1440,
       "2023-05-06": 1440,
       "2023-05-05": 1440,
