@@ -1,7 +1,7 @@
-url: http://mms.hangeul.go.kr:9002/login
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-05-09T05:29:05.563Z
+url: https://memorysuper.library.kr
+status: up
+code: 200
+responseTime: 1558
+lastUpdated: 2023-05-09T05:39:51.884Z
 startTime: Mon Apr 03 2023 03:38:11 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
