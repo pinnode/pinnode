@@ -5,6 +5,8 @@ repo: pinnode # The name of this repository
 sites:
   - name: jeju43
     url: http://43archives.or.kr/main.do
+  - name: jeju43admin
+    url: http://43archives.or.kr/admin
   - name: jp
     url: https://archives.jp.go.kr/
   - name: jpadmin
