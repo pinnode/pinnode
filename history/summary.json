@@ -49,10 +49,10 @@
     "url": "https://archives.jp.go.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/archives.jp.go.kr.ico",
     "slug": "jp",
-    "status": "up",
+    "status": "down",
     "uptime": "98.94%",
-    "uptimeDay": "18.13%",
-    "uptimeWeek": "88.30%",
+    "uptimeDay": "18.03%",
+    "uptimeWeek": "88.29%",
     "uptimeMonth": "97.31%",
     "uptimeYear": "98.94%",
     "time": 3650,
@@ -61,7 +61,7 @@
     "timeMonth": 4440,
     "timeYear": 3650,
     "dailyMinutesDown": {
-      "2023-06-17": 537,
+      "2023-06-17": 538,
       "2023-06-16": 642,
       "2023-04-06": 29
     }
@@ -71,10 +71,10 @@
     "url": "https://archives.jp.go.kr/admin",
     "icon": "https://icons.duckduckgo.com/ip3/archives.jp.go.kr.ico",
     "slug": "jpadmin",
-    "status": "up",
+    "status": "down",
     "uptime": "98.89%",
-    "uptimeDay": "18.16%",
-    "uptimeWeek": "88.31%",
+    "uptimeDay": "18.10%",
+    "uptimeWeek": "88.30%",
     "uptimeMonth": "97.31%",
     "uptimeYear": "98.89%",
     "time": 503,
@@ -83,7 +83,7 @@
     "timeMonth": 497,
     "timeYear": 503,
     "dailyMinutesDown": {
-      "2023-06-17": 537,
+      "2023-06-17": 538,
       "2023-06-16": 641,
       "2023-04-06": 28
     }
@@ -215,7 +215,7 @@
     "timeMonth": 3080,
     "timeYear": 2901,
     "dailyMinutesDown": {
-      "2023-06-17": 538,
+      "2023-06-17": 570,
       "2023-06-16": 1440,
       "2023-06-15": 1440,
       "2023-06-14": 1440,
@@ -305,7 +305,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-17": 538,
+      "2023-06-17": 570,
       "2023-06-16": 1440,
       "2023-06-15": 1440,
       "2023-06-14": 1440,
