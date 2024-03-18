@@ -1,7 +1,7 @@
 url: https://memory.library.kr/main
-status: down
-code: 503
-responseTime: 959
-lastUpdated: 2024-03-18T06:20:52.617Z
+status: up
+code: 200
+responseTime: 2821
+lastUpdated: 2024-03-18T07:27:40.228Z
 startTime: 2023-03-30T07:34:21.000Z
 generator: Upptime <https://github.com/upptime/upptime>
