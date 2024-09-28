@@ -6,17 +6,16 @@
     "slug": "jeju43",
     "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.74%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.77%",
     "uptimeYear": "99.64%",
     "time": 2329,
-    "timeDay": 1456,
-    "timeWeek": 1658,
-    "timeMonth": 2700,
-    "timeYear": 2563,
+    "timeDay": 1788,
+    "timeWeek": 1291,
+    "timeMonth": 2710,
+    "timeYear": 2567,
     "dailyMinutesDown": {
-      "2024-09-27": 10,
       "2024-09-05": 75,
       "2024-09-03": 27,
       "2024-08-21": 21,
@@ -51,8 +50,7 @@
       "2023-10-03": 22,
       "2023-10-02": 34,
       "2023-10-01": 69,
-      "2023-09-30": 181,
-      "2023-09-29": 104
+      "2023-09-30": 181
     }
   },
   {
@@ -67,9 +65,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 372,
-    "timeDay": 390,
-    "timeWeek": 312,
-    "timeMonth": 325,
+    "timeDay": 381,
+    "timeWeek": 330,
+    "timeMonth": 326,
     "timeYear": 391,
     "dailyMinutesDown": {
       "2024-04-21": 41,
@@ -82,8 +80,7 @@
       "2023-10-11": 22,
       "2023-10-05": 34,
       "2023-10-04": 60,
-      "2023-10-02": 33,
-      "2023-09-29": 55
+      "2023-10-02": 33
     }
   },
   {
@@ -97,18 +94,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.34%",
-    "time": 3504,
-    "timeDay": 6031,
-    "timeWeek": 5823,
-    "timeMonth": 4026,
-    "timeYear": 3444,
+    "time": 3514,
+    "timeDay": 6248,
+    "timeWeek": 6030,
+    "timeMonth": 4162,
+    "timeYear": 3447,
     "dailyMinutesDown": {
       "2024-09-09": 25,
       "2024-09-06": 21,
       "2024-08-12": 322,
       "2024-08-11": 1440,
-      "2024-08-10": 1360,
-      "2023-09-29": 325
+      "2024-08-10": 1360
     }
   },
   {
@@ -124,16 +120,15 @@
     "uptimeYear": "99.34%",
     "time": 503,
     "timeDay": 570,
-    "timeWeek": 477,
-    "timeMonth": 492,
+    "timeWeek": 501,
+    "timeMonth": 493,
     "timeYear": 506,
     "dailyMinutesDown": {
       "2024-09-06": 20,
       "2024-08-12": 322,
       "2024-08-11": 1440,
       "2024-08-10": 1360,
-      "2024-07-22": 17,
-      "2023-09-29": 323
+      "2024-07-22": 17
     }
   },
   {
@@ -147,11 +142,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.77%",
-    "time": 4489,
-    "timeDay": 2730,
-    "timeWeek": 2788,
-    "timeMonth": 3493,
-    "timeYear": 4476,
+    "time": 4488,
+    "timeDay": 3229,
+    "timeWeek": 2885,
+    "timeMonth": 3503,
+    "timeYear": 4474,
     "dailyMinutesDown": {
       "2024-06-15": 22,
       "2024-06-03": 107,
@@ -176,8 +171,7 @@
       "2023-10-05": 41,
       "2023-10-04": 140,
       "2023-10-02": 33,
-      "2023-10-01": 16,
-      "2023-09-29": 83
+      "2023-10-01": 16
     }
   },
   {
@@ -191,10 +185,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.78%",
     "uptimeYear": "99.81%",
-    "time": 2577,
-    "timeDay": 2551,
-    "timeWeek": 2544,
-    "timeMonth": 2610,
+    "time": 2579,
+    "timeDay": 2732,
+    "timeWeek": 2547,
+    "timeMonth": 2613,
     "timeYear": 2661,
     "dailyMinutesDown": {
       "2024-09-04": 58,
@@ -208,18 +202,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mms.hangeul.go.kr.ico",
     "slug": "hangeulcms",
     "status": "down",
-    "uptime": "77.46%",
+    "uptime": "77.44%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "66.40%",
+    "uptimeYear": "66.37%",
     "time": 764,
-    "timeDay": 825,
-    "timeWeek": 689,
-    "timeMonth": 752,
+    "timeDay": 844,
+    "timeWeek": 724,
+    "timeMonth": 749,
     "timeYear": 774,
     "dailyMinutesDown": {
-      "2024-09-27": 1366,
+      "2024-09-28": 77,
+      "2024-09-27": 1440,
       "2024-09-26": 1440,
       "2024-09-25": 1440,
       "2024-09-24": 1440,
@@ -350,18 +345,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.kcultureroad.kr.ico",
     "slug": "kculture",
     "status": "down",
-    "uptime": "54.58%",
+    "uptime": "54.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "32.11%",
-    "time": 2342,
+    "uptimeYear": "32.08%",
+    "time": 2345,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 2420,
     "dailyMinutesDown": {
-      "2024-09-27": 1366,
+      "2024-09-28": 77,
+      "2024-09-27": 1440,
       "2024-09-26": 1440,
       "2024-09-25": 1440,
       "2024-09-24": 1440,
@@ -618,18 +614,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.kcultureroad.kr.ico",
     "slug": "kcultureadmin",
     "status": "down",
-    "uptime": "54.44%",
+    "uptime": "54.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "32.12%",
+    "uptimeYear": "32.09%",
     "time": 236,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 232,
     "dailyMinutesDown": {
-      "2024-09-27": 1366,
+      "2024-09-28": 77,
+      "2024-09-27": 1440,
       "2024-09-26": 1440,
       "2024-09-25": 1440,
       "2024-09-24": 1440,
@@ -890,13 +887,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 4519,
-    "timeDay": 2265,
-    "timeWeek": 4441,
-    "timeMonth": 5072,
-    "timeYear": 5149,
+    "time": 4525,
+    "timeDay": 5953,
+    "timeWeek": 5053,
+    "timeMonth": 5037,
+    "timeYear": 5160,
     "dailyMinutesDown": {
-      "2024-09-27": 1366,
+      "2024-09-28": 77,
+      "2024-09-27": 1440,
       "2024-09-26": 1440,
       "2024-09-25": 1440,
       "2024-09-24": 1440,
@@ -1259,8 +1257,7 @@
       "2023-10-03": 1440,
       "2023-10-02": 1440,
       "2023-10-01": 1440,
-      "2023-09-30": 1440,
-      "2023-09-29": 1440
+      "2023-09-30": 1440
     }
   },
   {
@@ -1280,7 +1277,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-27": 1366,
+      "2024-09-28": 77,
+      "2024-09-27": 1440,
       "2024-09-26": 1440,
       "2024-09-25": 1440,
       "2024-09-24": 1440,
@@ -1643,8 +1641,7 @@
       "2023-10-03": 1440,
       "2023-10-02": 1440,
       "2023-10-01": 1440,
-      "2023-09-30": 1440,
-      "2023-09-29": 1440
+      "2023-09-30": 1440
     }
   }
 ]
