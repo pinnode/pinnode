@@ -1,7 +1,7 @@
 url: http://mms.hangeul.go.kr:9001/login
 status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-02-03T23:20:19.388Z
+code: 403
+responseTime: 612
+lastUpdated: 2025-02-04T23:20:14.448Z
 startTime: 2023-04-02T23:57:39.000Z
 generator: Upptime <https://github.com/upptime/upptime>
