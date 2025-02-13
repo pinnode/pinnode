@@ -1,7 +1,7 @@
 url: http://www.kcultureroad.kr/
-status: up
-code: 200
-responseTime: 1272
-lastUpdated: 2025-02-12T23:19:23.876Z
+status: down
+code: 502
+responseTime: 28751
+lastUpdated: 2025-02-13T05:52:50.904Z
 startTime: 2023-03-30T07:49:46.000Z
 generator: Upptime <https://github.com/upptime/upptime>
