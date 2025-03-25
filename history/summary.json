@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.88%",
-    "time": 2012,
-    "timeDay": 1330,
-    "timeWeek": 1183,
-    "timeMonth": 1361,
-    "timeYear": 1819,
+    "time": 2011,
+    "timeDay": 1373,
+    "timeWeek": 1194,
+    "timeMonth": 1366,
+    "timeYear": 1820,
     "dailyMinutesDown": {
       "2025-03-02": 25,
       "2025-02-19": 27,
@@ -28,8 +28,7 @@
       "2024-08-21": 21,
       "2024-07-27": 24,
       "2024-04-21": 41,
-      "2024-03-28": 45,
-      "2024-03-25": 46
+      "2024-03-28": 45
     }
   },
   {
@@ -44,17 +43,16 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.93%",
     "time": 364,
-    "timeDay": 329,
-    "timeWeek": 287,
-    "timeMonth": 326,
+    "timeDay": 375,
+    "timeWeek": 303,
+    "timeMonth": 330,
     "timeYear": 335,
     "dailyMinutesDown": {
       "2025-03-02": 25,
       "2025-01-13": 107,
       "2025-01-12": 2,
       "2024-12-15": 154,
-      "2024-04-21": 41,
-      "2024-03-25": 28
+      "2024-04-21": 41
     }
   },
   {
@@ -68,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.31%",
-    "time": 3308,
-    "timeDay": 1736,
-    "timeWeek": 2713,
-    "timeMonth": 3530,
-    "timeYear": 3341,
+    "time": 3315,
+    "timeDay": 5616,
+    "timeWeek": 3300,
+    "timeMonth": 3541,
+    "timeYear": 3351,
     "dailyMinutesDown": {
       "2025-02-15": 443,
       "2025-02-14": 26,
@@ -95,9 +93,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.31%",
     "time": 517,
-    "timeDay": 506,
-    "timeWeek": 439,
-    "timeMonth": 494,
+    "timeDay": 568,
+    "timeWeek": 461,
+    "timeMonth": 500,
     "timeYear": 520,
     "dailyMinutesDown": {
       "2025-02-15": 428,
@@ -120,11 +118,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.58%",
     "uptimeYear": "98.80%",
-    "time": 3307,
-    "timeDay": 2133,
-    "timeWeek": 1620,
-    "timeMonth": 1757,
-    "timeYear": 2619,
+    "time": 3303,
+    "timeDay": 2043,
+    "timeWeek": 1654,
+    "timeMonth": 1774,
+    "timeYear": 2605,
     "dailyMinutesDown": {
       "2025-03-16": 16,
       "2025-03-05": 36,
@@ -151,8 +149,7 @@
       "2024-05-31": 39,
       "2024-04-29": 20,
       "2024-04-12": 28,
-      "2024-03-28": 33,
-      "2024-03-25": 74
+      "2024-03-28": 33
     }
   },
   {
@@ -166,11 +163,11 @@
     "uptimeWeek": "99.68%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "98.54%",
-    "time": 2620,
-    "timeDay": 1794,
-    "timeWeek": 1588,
-    "timeMonth": 2163,
-    "timeYear": 2610,
+    "time": 2619,
+    "timeDay": 2005,
+    "timeWeek": 1655,
+    "timeMonth": 2159,
+    "timeYear": 2608,
     "dailyMinutesDown": {
       "2025-03-20": 32,
       "2025-02-27": 42,
@@ -194,18 +191,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mms.hangeul.go.kr.ico",
     "slug": "hangeulcms",
     "status": "down",
-    "uptime": "58.43%",
+    "uptime": "58.35%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "17.88%",
+    "uptimeYear": "17.61%",
     "time": 781,
-    "timeDay": 756,
-    "timeWeek": 660,
-    "timeMonth": 747,
+    "timeDay": 804,
+    "timeWeek": 703,
+    "timeMonth": 755,
     "timeYear": 781,
     "dailyMinutesDown": {
-      "2025-03-24": 86,
+      "2025-03-25": 85,
+      "2025-03-24": 1440,
       "2025-03-23": 1440,
       "2025-03-22": 1440,
       "2025-03-21": 1440,
@@ -514,16 +512,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.kcultureroad.kr.ico",
     "slug": "kculture",
     "status": "up",
-    "uptime": "50.42%",
+    "uptime": "50.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "18.23%",
-    "time": 2145,
-    "timeDay": 1467,
-    "timeWeek": 1464,
-    "timeMonth": 1415,
-    "timeYear": 1891,
+    "uptimeYear": "18.51%",
+    "time": 2137,
+    "timeDay": 1229,
+    "timeWeek": 1382,
+    "timeMonth": 1424,
+    "timeYear": 1882,
     "dailyMinutesDown": {
       "2025-02-25": 30,
       "2025-02-13": 27,
@@ -824,8 +822,7 @@
       "2024-03-29": 1440,
       "2024-03-28": 1440,
       "2024-03-27": 1440,
-      "2024-03-26": 1440,
-      "2024-03-25": 1440
+      "2024-03-26": 1440
     }
   },
   {
@@ -834,18 +831,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.kcultureroad.kr.ico",
     "slug": "kcultureadmin",
     "status": "down",
-    "uptime": "41.07%",
+    "uptime": "41.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
     "time": 203,
-    "timeDay": 169,
-    "timeWeek": 144,
-    "timeMonth": 163,
+    "timeDay": 186,
+    "timeWeek": 151,
+    "timeMonth": 164,
     "timeYear": 168,
     "dailyMinutesDown": {
-      "2025-03-24": 86,
+      "2025-03-25": 85,
+      "2025-03-24": 1440,
       "2025-03-23": 1440,
       "2025-03-22": 1440,
       "2025-03-21": 1440,
@@ -1208,8 +1206,7 @@
       "2024-03-29": 1440,
       "2024-03-28": 1440,
       "2024-03-27": 1440,
-      "2024-03-26": 1440,
-      "2024-03-25": 1440
+      "2024-03-26": 1440
     }
   },
   {
@@ -1223,13 +1220,14 @@
     "uptimeWeek": "0.23%",
     "uptimeMonth": "8.08%",
     "uptimeYear": "0.01%",
-    "time": 4466,
-    "timeDay": 2072,
-    "timeWeek": 1958,
-    "timeMonth": 2031,
-    "timeYear": 4215,
+    "time": 4463,
+    "timeDay": 2193,
+    "timeWeek": 2016,
+    "timeMonth": 2044,
+    "timeYear": 4213,
     "dailyMinutesDown": {
-      "2025-03-24": 86,
+      "2025-03-25": 85,
+      "2025-03-24": 1440,
       "2025-03-23": 1440,
       "2025-03-22": 1440,
       "2025-03-21": 1417,
@@ -1592,8 +1590,7 @@
       "2024-03-29": 1440,
       "2024-03-28": 1440,
       "2024-03-27": 1440,
-      "2024-03-26": 1440,
-      "2024-03-25": 1440
+      "2024-03-26": 1440
     }
   },
   {
@@ -1613,7 +1610,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-24": 86,
+      "2025-03-25": 85,
+      "2025-03-24": 1440,
       "2025-03-23": 1440,
       "2025-03-22": 1440,
       "2025-03-21": 1440,
@@ -1976,8 +1974,7 @@
       "2024-03-29": 1440,
       "2024-03-28": 1440,
       "2024-03-27": 1440,
-      "2024-03-26": 1440,
-      "2024-03-25": 1440
+      "2024-03-26": 1440
     }
   }
 ]
