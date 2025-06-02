@@ -10,11 +10,11 @@
     "uptimeWeek": "99.28%",
     "uptimeMonth": "99.57%",
     "uptimeYear": "99.79%",
-    "time": 1906,
-    "timeDay": 1725,
-    "timeWeek": 1375,
+    "time": 1904,
+    "timeDay": 1205,
+    "timeWeek": 1416,
     "timeMonth": 1761,
-    "timeYear": 1795,
+    "timeYear": 1786,
     "dailyMinutesDown": {
       "2025-05-27": 27,
       "2025-05-26": 46,
@@ -53,8 +53,8 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.88%",
     "time": 334,
-    "timeDay": 372,
-    "timeWeek": 334,
+    "timeDay": 378,
+    "timeWeek": 348,
     "timeMonth": 335,
     "timeYear": 332,
     "dailyMinutesDown": {
@@ -81,11 +81,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.09%",
-    "time": 3477,
-    "timeDay": 1866,
-    "timeWeek": 2961,
-    "timeMonth": 4229,
-    "timeYear": 3567,
+    "time": 3486,
+    "timeDay": 6507,
+    "timeWeek": 3048,
+    "timeMonth": 4271,
+    "timeYear": 3579,
     "dailyMinutesDown": {
       "2025-04-24": 34,
       "2025-04-10": 36,
@@ -118,10 +118,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.30%",
-    "time": 515,
-    "timeDay": 541,
-    "timeWeek": 501,
-    "timeMonth": 508,
+    "time": 516,
+    "timeDay": 560,
+    "timeWeek": 524,
+    "timeMonth": 507,
     "timeYear": 517,
     "dailyMinutesDown": {
       "2025-04-10": 35,
@@ -143,13 +143,13 @@
     "status": "up",
     "uptime": "98.57%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "85.75%",
+    "uptimeWeek": "99.92%",
     "uptimeMonth": "95.25%",
     "uptimeYear": "97.42%",
-    "time": 2826,
-    "timeDay": 1919,
-    "timeWeek": 1886,
-    "timeMonth": 2282,
+    "time": 2820,
+    "timeDay": 1799,
+    "timeWeek": 1876,
+    "timeMonth": 2276,
     "timeYear": 2401,
     "dailyMinutesDown": {
       "2025-05-26": 112,
@@ -182,8 +182,7 @@
       "2024-11-04": 43,
       "2024-10-22": 19,
       "2024-06-15": 22,
-      "2024-06-03": 107,
-      "2024-06-02": 98
+      "2024-06-03": 107
     }
   },
   {
@@ -198,10 +197,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.54%",
     "time": 2508,
-    "timeDay": 1975,
-    "timeWeek": 1906,
+    "timeDay": 1973,
+    "timeWeek": 1960,
     "timeMonth": 1889,
-    "timeYear": 2446,
+    "timeYear": 2445,
     "dailyMinutesDown": {
       "2025-03-20": 32,
       "2025-02-27": 42,
@@ -224,18 +223,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mms.hangeul.go.kr.ico",
     "slug": "hangeulcms",
     "status": "down",
-    "uptime": "53.33%",
+    "uptime": "53.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 781,
-    "timeDay": 802,
-    "timeWeek": 802,
-    "timeMonth": 799,
-    "timeYear": 774,
+    "time": 782,
+    "timeDay": 857,
+    "timeWeek": 837,
+    "timeMonth": 803,
+    "timeYear": 775,
     "dailyMinutesDown": {
-      "2025-06-01": 116,
+      "2025-06-02": 104,
+      "2025-06-01": 1440,
       "2025-05-31": 1440,
       "2025-05-30": 1440,
       "2025-05-29": 1440,
@@ -598,8 +598,7 @@
       "2024-06-06": 1440,
       "2024-06-05": 1440,
       "2024-06-04": 1440,
-      "2024-06-03": 1440,
-      "2024-06-02": 1440
+      "2024-06-03": 1440
     }
   },
   {
@@ -608,16 +607,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.kcultureroad.kr.ico",
     "slug": "kculture",
     "status": "up",
-    "uptime": "54.73%",
+    "uptime": "54.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "37.14%",
-    "time": 1728,
-    "timeDay": 2570,
-    "timeWeek": 2021,
-    "timeMonth": 1739,
-    "timeYear": 1728,
+    "uptimeYear": "37.42%",
+    "time": 1726,
+    "timeDay": 1471,
+    "timeWeek": 1986,
+    "timeMonth": 1733,
+    "timeYear": 1726,
     "dailyMinutesDown": {
       "2025-02-25": 30,
       "2025-02-13": 27,
@@ -849,8 +848,7 @@
       "2024-06-06": 1440,
       "2024-06-05": 1440,
       "2024-06-04": 1440,
-      "2024-06-03": 1440,
-      "2024-06-02": 1440
+      "2024-06-03": 1440
     }
   },
   {
@@ -859,18 +857,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.kcultureroad.kr.ico",
     "slug": "kcultureadmin",
     "status": "down",
-    "uptime": "37.48%",
+    "uptime": "37.44%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 172,
-    "timeDay": 178,
-    "timeWeek": 166,
+    "timeDay": 190,
+    "timeWeek": 174,
     "timeMonth": 168,
     "timeYear": 167,
     "dailyMinutesDown": {
-      "2025-06-01": 116,
+      "2025-06-02": 104,
+      "2025-06-01": 1440,
       "2025-05-31": 1440,
       "2025-05-30": 1440,
       "2025-05-29": 1440,
@@ -1233,8 +1232,7 @@
       "2024-06-06": 1440,
       "2024-06-05": 1440,
       "2024-06-04": 1440,
-      "2024-06-03": 1440,
-      "2024-06-02": 1440
+      "2024-06-03": 1440
     }
   },
   {
@@ -1248,13 +1246,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.01%",
-    "time": 4131,
-    "timeDay": 2474,
-    "timeWeek": 2446,
-    "timeMonth": 2126,
-    "timeYear": 3561,
+    "time": 4128,
+    "timeDay": 2540,
+    "timeWeek": 2460,
+    "timeMonth": 2142,
+    "timeYear": 3560,
     "dailyMinutesDown": {
-      "2025-06-01": 116,
+      "2025-06-02": 104,
+      "2025-06-01": 1440,
       "2025-05-31": 1440,
       "2025-05-30": 1440,
       "2025-05-29": 1440,
@@ -1617,8 +1616,7 @@
       "2024-06-06": 1440,
       "2024-06-05": 1440,
       "2024-06-04": 1440,
-      "2024-06-03": 1440,
-      "2024-06-02": 1440
+      "2024-06-03": 1440
     }
   },
   {
@@ -1638,7 +1636,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-01": 116,
+      "2025-06-02": 104,
+      "2025-06-01": 1440,
       "2025-05-31": 1440,
       "2025-05-30": 1440,
       "2025-05-29": 1440,
@@ -2001,8 +2000,7 @@
       "2024-06-06": 1440,
       "2024-06-05": 1440,
       "2024-06-04": 1440,
-      "2024-06-03": 1440,
-      "2024-06-02": 1440
+      "2024-06-03": 1440
     }
   }
 ]
